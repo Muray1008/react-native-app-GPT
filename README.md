@@ -4,7 +4,7 @@ Android based AI chat application. Built using useLLM react hook and ChatGPT API
 
 _Note: This app has only been tested on Android. It might required some changes for it to work on iOS._
 
-## Android Development Environment
+## Android Development Environment 
 
 Follow the [instructions](https://reactnative.dev/docs/environment-setup?os=macos&platform=android) here for your Development OS with Android target.
 
